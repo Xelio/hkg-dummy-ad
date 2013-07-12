@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name       HKG Dummy ad
 // @namespace  http://xelio.eu.org
-// @version    1.0
+// @version    1.1
 // @description  Avoid getting redirected to blank page by the buggy adblock detecting script
 // @include    http://www.hkgolden.com/*
 // @include    http://forum*.hkgolden.com/*
+// @include    http://search.hkgolden.com/*
 // @run-at document-start
 // @copyright  2013+, Xelio
 // ==/UserScript==
